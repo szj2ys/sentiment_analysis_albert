@@ -1,0 +1,45 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+Pipfile
+Pipfile.lock
+data.csv
+__MACOSX/
+.DS_Store
+# C extensions
+*.so
+*.db
+*.sqlite
+*.sqlite3
+*.log
+*.h5
+demo*
+*.test
+*.data
+*.png
+*.jpg
+*demo.py
+*test.py
+test*
+datasets/results/*.csv
+datasets/*.csv
+datasets/models/*.h5
+datasets/models/*.model
+
+# Sphinx documentation
+docs/_build/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# pyenv
+.python-version
+
+*.html
+
+# pycharm
+.idea/
+
+## vscode
+.vscode/
